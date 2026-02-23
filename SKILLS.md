@@ -1,6 +1,12 @@
 ---
 name: minions-content-research
-description: Research sources, topic clusters, keyword sets, and content briefs
+id: OC-0118
+version: 1.0.0
+description: "Research sources, topic clusters, keyword sets, and content briefs"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-content-research — Agent Skills
