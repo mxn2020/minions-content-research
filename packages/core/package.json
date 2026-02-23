@@ -1,6 +1,6 @@
 {
   "name": "@minions-content-research/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Research sources, topic clusters, keyword sets, and content briefs",
   "type": "module",
   "main": "./dist/index.js",
