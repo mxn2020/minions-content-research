@@ -1,0 +1,8 @@
+name: "@minions-content-research/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-content-research-workspace
+description: "CLI for minions-content-research — Research sources, topic clusters, keyword sets, and content briefs"
+priority: high
+deploy_url: null
+tags: null

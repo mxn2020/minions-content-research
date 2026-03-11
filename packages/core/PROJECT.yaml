@@ -1,0 +1,8 @@
+name: "@minions-content-research/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-content-research-workspace
+description: "Research sources, topic clusters, keyword sets, and content briefs"
+priority: high
+deploy_url: null
+tags: null

@@ -1,0 +1,15 @@
+name: minions-content-research-workspace
+project_scope: main
+project_type: monorepo
+description: "Research sources, topic clusters, keyword sets, and content briefs"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-content-research"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, content, research]
+notes: null
+id: 8b0a1224-3ada-4fc3-af99-9a0c6a5386d8

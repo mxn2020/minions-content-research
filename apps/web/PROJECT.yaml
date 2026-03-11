@@ -1,0 +1,8 @@
+name: "@minions-content-research/web"
+project_scope: child
+child_type: web-app
+parent_project: minions-content-research-workspace
+description: "Standard compliance definition for @minions-content-research/web"
+priority: high
+deploy_url: null
+tags: null
